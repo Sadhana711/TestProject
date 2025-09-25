@@ -1,3 +1,4 @@
 'date' :: working with merge
 'date' :: working wit same file
 'date' :: working wit same file in dev3
+change the file2
